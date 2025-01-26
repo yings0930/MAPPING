@@ -12,4 +12,4 @@ This is the official implementation of the 'MAPPING' paper accepted by WWW Journ
 
 ## Statement:
 
-Unfortunately, I cannot provide all the codes (especially the baselines) I used for this research. I stored all codes in my university’s server with limited storage space. I usually downloaded and deleted files after finishing one research. But unluckily I lost my files last summer as my MacBook m1 needed to replace a chip… 
+Unfortunately, I cannot provide all the codes (especially the baselines) I used for this research. I stored all codes in my university’s server with limited storage space. I usually downloaded and deleted files after finishing one research. But unluckily I lost my files last summer as my MacBook m1 needed to replace a chip… I can only find these files in the server, but they should be sufficient to run the work smoothly.
