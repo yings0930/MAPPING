@@ -4,9 +4,10 @@ This is the official implementation of the 'MAPPING' paper accepted by WWW Journ
 
 ## Running Process:
 
-1. An example is provided in formal_debias.ipynb.  
-2. For different graphs, tune corresponding parameters in formal_debias.ipynb.
-3. To replicate visual results, run Primary Analysis-WWW.ipynb.
+1. Download datasets from [NIFTY](https://github.com/chirag-agarwall/nifty/tree/main/dataset). Then save it into ./dataset folder.
+2. Run formal_debias.ipynb. A German example is provided.  
+3. For different graphs, tune corresponding parameters in formal_debias.ipynb.
+4. To replicate visual results, run Primary Analysis-WWW.ipynb.
 
 ## Statement:
 
